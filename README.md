@@ -8,8 +8,8 @@ Implementation of various methods to find roots of equations:
 Description
 ----
 This program computes the roots of the following two equations and also their relative and true errors for each method and outputs to file. 
-A third degree polynomial function -> 2x^3 - 11.7x^2 + 17.7x - 5,
-A hyperbolic cosine function -> x + 10 – xcosh(50/x) 
+1. A third degree polynomial function -> 2x^3 - 11.7x^2 + 17.7x - 5,
+2. A hyperbolic cosine function -> x + 10 – xcosh(50/x) 
 
 
 How to run the program
