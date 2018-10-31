@@ -1,0 +1,3 @@
+Approximate Relative Error for Root 124.64524567964556
+1.0
+0.017412282583880216
