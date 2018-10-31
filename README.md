@@ -1,9 +1,9 @@
 Implementation of various methods to find roots of equations:
-1: Bisection Method
-2: False Position Method
-3: Secant Method
-4: Modified Secant Method
-5: Newton Rhapson Method
+1. Bisection Method
+2. False Position Method
+3. Secant Method
+4. Modified Secant Method
+5. Newton Rhapson Method
 
 Description
 ----
